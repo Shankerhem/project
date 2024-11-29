@@ -1,15 +1,3 @@
-A README.md file is essential for providing an overview of your project. You can create it directly in your local project folder or within GitHub.
-
-Using VS Code
-Open Your Project Folder:
-
-Navigate to the root folder of your project in VS Code.
-Create a New File:
-
-In the file explorer, click on New File and name it README.md.
-Write Project Information: Include the following sections in your README.md:
-
-markdown
 # Role-Based Access Control (RBAC) System
 
 ## Objective
